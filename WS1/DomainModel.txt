@@ -1,0 +1,1 @@
+I decided to split the domain model into two models, one for managing the boats and berths and the other for the calendar.
